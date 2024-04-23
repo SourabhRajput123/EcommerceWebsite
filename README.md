@@ -21,7 +21,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/GameTrove-eCommerce.git
+git clone https://github.com/SourabhRajput123/EcommerceWebsite
 Navigate to the project directory:
 bash
 Copy code
