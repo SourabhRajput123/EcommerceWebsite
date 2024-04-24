@@ -21,7 +21,7 @@ To run this eCommerce website locally or integrate it into your project, follow 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/eCommerce-Website.git
+   git clone https://github.com/SourabhRajput123/EcommerceWebsite.git
  - Open `index.html` in a web browser to view the eCommerce website.
    - Interact with the product listing, add items to the cart, and adjust quantities using the provided buttons.
 
