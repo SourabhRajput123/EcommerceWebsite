@@ -24,6 +24,9 @@ To run this eCommerce website locally or integrate it into your project, follow 
    git clone https://github.com/SourabhRajput123/EcommerceWebsite.git
  - Open `index.html` in a web browser to view the eCommerce website.
    - Interact with the product listing, add items to the cart, and adjust quantities using the provided buttons.
+2. **NPM**
+     -Use "npm i" command in terminal to install the required node_modules.
+     -To Start the project use "npm run dev" command in terminal.
 
 ## Project Structure
 - `index.html`: HTML file containing the website structure and content.
