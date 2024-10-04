@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Laptop",
+        "category":"Computers",
+        "brand":"Asus",
+        "price":"999.88",
+        "stock":"59",
+        "description":"8GB RAM , 512 SSD, 4GB GTX 1680 GRAPHICS CARD",
+        "image":"./public/images/lapi.png"
+    },
+    {
+        "id":2,
+        "name":"Iphone",
+        "category":"Mobiles",
+        "brand":"Apple",
+        "price":"400",
+        "stock":"100",
+        "description":"8GB RAM , MEDIATEK PROCESSOR, 6 INCH DISPLAY CARD",
+        "image":"./public/images/iphone.png"
+    },
+    {
+        "id":3,
+        "name":"Speaker",
+        "category":"Music",
+        "brand":"Boat",
+        "price":"125",
+        "stock":"10",
+        "description":"Loud",
+        "image":"./public/images/speakers.png"
+    },
+    {
+        "id":4,
+        "name":"Tv",
+        "category":"TV",
+        "brand":"Samsung",
+        "price":"2000",
+        "stock":"6",
+        "description":"55 INCH, OLED DISPLAY, ANDORID VERSION 11",
+        "image":"./public/images/tv.png"
+    },
+    {
+        "id":5,
+        "name":"Watch",
+        "category":"Wearables",
+        "brand":"Boat",
+        "price":"50",
+        "stock":"200",
+        "description":"Introducing the Horizon Chrono-Master, a watch that embodies elegance and precision engineering. Meticulously crafted with a polished case and intricate dial, it captivates with its timeless design. Beneath the surface lies a meticulously engineered movement, ensuring flawless performance. More than just a timepiece, it's a symbol of aspiration and enduring style, leaving an indelible mark on its wearer.",
+        "image":"./public/images/watch.png"
+    },
+    {
+        "id":6,
+        "name":"Mobile",
+        "category":"Mobiles",
+        "brand":"Apple",
+        "price":"999.88",
+        "stock":"59",
+        "description":"Iphone Is very Cool",
+        "image":"./public/images/mobiles.png"
+    }
+    ,
+    {
+        "id":6,
+        "name":"abhcauhcsugc",
+        "category":"Mobiles",
+        "brand":"Apple",
+        "price":"999.88",
+        "stock":"59",
+        "description":"Iphone Is very Cool",
+        "image":"./public/images/mobiles.png"
+    }
+]
