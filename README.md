@@ -22,13 +22,22 @@ To run this eCommerce website locally or integrate it into your project, follow 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SourabhRajput123/EcommerceWebsite.git
- - Open `index.html` in a web browser to view the eCommerce website.
-   - Interact with the product listing, add items to the cart, and adjust quantities using the provided buttons.
-2. **NPM**
-     -Use "npm i" command in terminal to install the required node_modules.
-     -To Start the project use "npm run dev" command in terminal.
+   ```
+2. **Install Dependencies (if applicable):**
+   If your project requires Node.js packages, navigate to the project directory and run:
+   ```bash
+   npm install
+   ```
+3. **Start the Project:**
+   To launch the project, use the following command:
+   ```bash
+   npm run dev
+   ```
+4. **Open the Website:**
+   Open `index.html` in a web browser to view the eCommerce website. Interact with the product listing, add items to the cart, and adjust quantities using the provided buttons.
 
 ## Project Structure
+
 - `index.html`: HTML file containing the website structure and content.
 - `style.css`: CSS file for styling the website layout and appearance.
 - `script.js`: JavaScript file implementing dynamic behavior, cart functionality, and local data storage.
@@ -37,6 +46,3 @@ To run this eCommerce website locally or integrate it into your project, follow 
 
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
